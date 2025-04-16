@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+opencv-python
+pdf2image
+requests
+python-multipart
+python-dotenv
